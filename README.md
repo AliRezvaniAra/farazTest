@@ -1,5 +1,6 @@
 ## How to run project
 
+- git clone https://github.com/AliRezvaniAra/farazTest
 - composer install
 - create "faraz" database
 - php artisan migrate
